@@ -8,7 +8,7 @@ I will focus on training neural networks (NNs) for the task of navigating a simu
 
 The trained NN will be "deployed" as an application by putting the NN in new, unseen environments and testing its performance. If all goes well, then an extension of this work will include changing the simulation textures and lighting and training the NN to work when facing unseen textures.
 
-The longer-term goal is to use a NN to enable better navigation in complex environments for a robot with multiple modes of locomotion (i.e., wheeled and flight). The results from this work will feed into an on-going project where we are trying to "cross the reality gap."
+The longer-term goal is to use a NN to enable better navigation in complex environments for a robot with multiple modes of locomotion (i.e., wheeled and flight). The results from this work will feed into an on-going project where we are trying to "cross the reality gap" that exists between simulation and the real world.
 
 ## Project Goals
 
